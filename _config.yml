@@ -6,18 +6,14 @@ sass:
   style: compressed
 # 作者信息
 author:
-  name: Libragen Eric Zhou
-  email: dejavuzhou@qq.com
-  link: http://captcha.mojotv.cn
-  weibo: http://weibo.com/u/2706451481?is_all=1
-  github: http://github.com/dejavuzhou
+  name: Rengen.M
+  email: 1834884307@qq.com
 
 # 站点信息
-title: Libra中文网
-description: Libra中文网:最权威的facebook libra数字货币资讯分享网站
-url: https://libragen.cn
+title: Rengen博客
+description: Rengen个人博客
+url: https://www.talon-mx.club
 rss_url: /pages/atom.xml
-comment_api: https://felix.mojotv.cn
 
 # avatar头像及Favicon
 avatar: /assets/image/libra_icon.jpg
@@ -48,21 +44,3 @@ webmaster_verifications:
   baidu: bc3262cde0438adc9418251d9e63476b
   360: 4f66b4f11f2ba5c4a48abf000c5e5cbd
 
-twitter:
-  username: LibraGen
-  card: summary
-
-facebook:
-  app_id: 1234
-  publisher: 1234
-  admins: 1234
-
-social:
-  name: Eric Zhou
-  links:
-  - https://twitter.com/neochau
-  - https://github.com/dejavuzhou
-  - https://github.com/mojocn
-  - https://github.com/JJJJJJJerk
-  - https://weibo.com/dejavuzhou/home
-  - http://captcha.mojotv.cn
